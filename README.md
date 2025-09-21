@@ -1,5 +1,7 @@
 # React + TypeScript + Material-UI Project Card
 
+<img width="429" height="390" alt="ProjectCard" src="[https://github.com/user-attachments/assets/15f824a6-94b5-4b68-b885-8d66f6862dc5](https://i.ibb.co/3m0PdTVh/image-2025-09-21-153514211.png)" />
+
 This is a reusable and responsive React component for displaying a project in a portfolio.
 
 Features
@@ -34,5 +36,5 @@ const myProject = {
 <ProjectCard project={myProject} />
 ```
 
-<img width="429" height="390" alt="ProjectCard" src="https://github.com/user-attachments/assets/15f824a6-94b5-4b68-b885-8d66f6862dc5" />
+
 
