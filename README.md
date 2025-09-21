@@ -33,3 +33,6 @@ const myProject = {
 // Render the component
 <ProjectCard project={myProject} />
 ```
+
+<img width="429" height="390" alt="ProjectCard" src="https://github.com/user-attachments/assets/15f824a6-94b5-4b68-b885-8d66f6862dc5" />
+
